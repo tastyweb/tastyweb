@@ -1,19 +1,19 @@
 # Во-первых
 
-Домен
+[Домен](https://www.tasyweb.ru/domains.html)
 
 ## Во-вторых
 
-Хостинг
+[Хостинг](https://www.tasyweb.ru/hosting.html)
 
 ### В третьих
 
-CDN - сеть доставки контента
+[CDN](https://www.tasyweb.ru/cdn.html) - сеть доставки контента
 
 #### В четвертых
 
-SSL-сертификат
+[SSL](https://www.tasyweb.ru/ssl.html)-сертификат
 
 ## В итоге 
 
-Быстрый и безопасный сайт
+**Быстрый и безопасный сайт**
